@@ -2,6 +2,12 @@
 
 > A terminal-style emotional experiment. Built from real feelings.
 
+## 🔗 Live Demo
+
+Check out the live version here:  
+👉 [https://sl-oomiboy.github.io/emotional-terminal-ui/](https://sl-oomiboy.github.io/emotional-terminal-ui/)
+
+
 ---
 
 ## 🧠 About
